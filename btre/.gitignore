@@ -120,3 +120,5 @@ dmypy.json
 .pyre/
 
 venv
+/btre/static
+/btre/media
